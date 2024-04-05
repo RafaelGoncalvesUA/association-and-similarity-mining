@@ -1,0 +1,6 @@
+ipykernel==6.29.2
+pyspark==3.5.0
+mmh3==4.1.0
+matplotlib==3.8.4
+
+pandas==2.2.1
